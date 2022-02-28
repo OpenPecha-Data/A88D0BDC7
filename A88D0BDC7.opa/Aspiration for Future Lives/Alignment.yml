@@ -1,0 +1,26 @@
+segment_sources:
+  PD4111BB1:
+    type: origin_type
+    relation: translation
+    language: en
+  P3F342A32:
+    type: origin_type
+    relation: translation
+    language: zh
+  P7D74A473:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  cadc5dcca622481c9543509af025fc8f:
+    PD4111BB1: 2ce8fc415ac648e6b56282e690ece469
+    P3F342A32: 38e44d0cdd874b8b91239c74395c1aef
+    P7D74A473: d933d574fa854143be268c17bbf6e31f
+  e8cacfe130ee4c74ab6a1d4b25fabd85:
+    PD4111BB1: e2720bb60f924c0f8a664cefa5c1e3d1
+    P3F342A32: 22a6eb0b4d064564ba2a846707b1be8f
+    P7D74A473: 73245c0613d146b981be05b7ffc9805d
+  c5c8b4ed8e5945b298f01dea1c970198:
+    PD4111BB1: fe7bab7b6a294121bbbc5a4582b3ba04
+    P3F342A32: b95eea7844134bc5a5250d9a1b95f241
+    P7D74A473: 90cef8d327be499c8bddef9fc3519104
